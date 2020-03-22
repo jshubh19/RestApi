@@ -1,0 +1,23 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<students-info>
+    <school>st joseph school</school>
+    <class> 9 </class>
+    <city> Banglore </city>
+    <students>
+        <student>
+            <id>1</id>
+            <name>shubh</name>
+            <age>16</age>
+        </student>
+        <student>
+            <id>2</id>
+            <name>haru</name>
+            <age>17</age>
+        </student>
+        <student>
+            <id>1</id>
+            <name>ahana</name>
+            <age>17</age>
+        </student>
+    </students>
+</students-info>

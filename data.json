@@ -1,0 +1,22 @@
+{
+  "school": "st. joseph school",
+  "class": "9",
+  "city": "banglore",
+  "students": [
+    {
+      "id": "1",
+      "name": "jublee",
+      "age": 17
+    },
+    {
+      "id": "2",
+      "name": "nancy",
+      "age": 16
+    },
+    {
+      "id": "3",
+      "name": "shubh",
+      "age": 15
+    }
+  ]
+}
